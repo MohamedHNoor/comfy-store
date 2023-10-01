@@ -8,7 +8,7 @@ const Register = () => {
         method='post'
         className='card w-96 sm:w-[600px] p-8 bg-base-100 shadow-lg flex flex-col gap-y-4'
       >
-        <h4 className='text-center text-3xl font-bold'>register</h4>
+        <h4 className='text-center text-3xl font-bold'>Register</h4>
         <FormInput type='text' label='username' name='username' />
         <FormInput type='email' label='email' name='email' />
         <FormInput type='password' label='password' name='password' />
