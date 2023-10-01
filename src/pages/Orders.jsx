@@ -1,5 +1,3 @@
-import React from 'react';
-
 const Orders = () => {
   return <h1 className='text-4xl'>Orders</h1>;
 };
