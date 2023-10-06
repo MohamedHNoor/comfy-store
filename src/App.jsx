@@ -18,6 +18,7 @@ import { ErrorElement } from './components';
 
 // loader
 import { loader as landingLoader } from './pages/Landing';
+
 // actions
 
 const router = createBrowserRouter([
